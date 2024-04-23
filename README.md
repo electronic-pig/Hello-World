@@ -1,2 +1,2 @@
 # Hello-World
-> I want to use this files to learn git
+> This is my `Hello World` repository 🚀
